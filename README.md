@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SashaaaaDev
 - 👀 I’m interested in studying back-end and front-end and posting some code that i wrote throughout my studies
-- 🌱 I’m currently learning C++, HTML, CSS, JavaScript, SCSS, LESS, SASS, Talwind and Bootstrap
+- 🌱 I’m currently learning C++, HTML, CSS, JavaScripta. Also i already know some technologies like SCSS, LESS, SASS, Talwind, Bootstrap, Gulp and Webpack
 - 💞️ I’m looking to work as a programmer
 - 📫 How to reach me? You can write an mail on sashahutoranskij15@gmail.com
